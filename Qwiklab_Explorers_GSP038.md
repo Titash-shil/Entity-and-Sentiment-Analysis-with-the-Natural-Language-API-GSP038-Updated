@@ -10,11 +10,11 @@
  - ### Copy & Run the Commands in Cloud Shell Terminal :
 
 ```
-curl -LO raw.githubusercontent.com/Titash-shil/Cloud-Filestore-Qwik-Start-GSP244/refs/heads/main/qwiklab_explorers_gsp244.sh
+curl -LO raw.githubusercontent.com/Titash-shil/Entity-and-Sentiment-Analysis-with-the-Natural-Language-API-GSP038-Updated/refs/heads/main/qwiklab_explorers_gsp038.sh
 
-sudo chmod +x qwiklab_explorers_gsp244.sh
+sudo chmod +x qwiklab_explorers_gsp038.sh
 
-./qwiklab_explorers_gsp244.sh
+./qwiklab_explorers_gsp038.sh
 ```
 
 ---
